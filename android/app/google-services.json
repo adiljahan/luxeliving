@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995888500438",
+    "project_id": "luxeliving-60d75",
+    "storage_bucket": "luxeliving-60d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995888500438:android:d42111523015c5b4e40377",
+        "android_client_info": {
+          "package_name": "com.example.luxe_living"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEUZS22gmiTeIFgV5Zbe_hZgTXbrzdyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
